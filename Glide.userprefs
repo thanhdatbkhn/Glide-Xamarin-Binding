@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D59F233E-E81F-468F-8BCF-B50BE85C8E7A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Glide PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../IOS/CustomViews/ResultViewNorth.cs" line="265" offsetX="430" offsetY="3960" expression="this.pCount" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GlideSample PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>
